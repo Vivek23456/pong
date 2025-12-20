@@ -1,4 +1,4 @@
-# Pong
+f# Pong
 
 A simple Pong game written in Rust.
 
@@ -29,7 +29,5 @@ git clone https://github.com/Vivek23456/pong.git
 - Player 1: `W` / `S`
 - Player 2: `Up Arrow` / `Down Arrow`
 
-## License
-
-This project is licensed under the MIT License.
+ 
 
