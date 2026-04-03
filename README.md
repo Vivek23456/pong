@@ -1,4 +1,4 @@
-f# Pong
+#### Pong
 
 A simple Pong game written in Rust.
 
